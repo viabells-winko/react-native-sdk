@@ -53,7 +53,7 @@ buildscript {
             classpath 'com.android.tools.build:gradle:8.2.2'
             // Following line is added for future conversion of our Java code to Kotlin, uncomment when needed
             // also decide about Kotlin version (and potential version compatibility with customers)
-            classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.10"
+            // classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.7"
         }
     }
 }
